@@ -2,7 +2,7 @@
 /* vim: set expandtab sw=4 ts=4 sts=4: */
 /**
  * Generic AJAX endpoint for getting information about database
- *
+ *\asfasdfsadf
  * @package PhpMyAdmin
  */
 
